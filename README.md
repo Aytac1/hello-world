@@ -1,3 +1,2 @@
 # hello-world
-just another repository
-I am a student.
+cout<<"Hello,I am a beginner!";
